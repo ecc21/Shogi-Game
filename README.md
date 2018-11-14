@@ -1,2 +1,10 @@
 # Shogi-Game
-Shogi programmed in Julia
+This is a Shogi program developed in Julia. 
+
+## Types of Shoji
+- ai
+- networking
+
+## Intefaces
+- command line
+- GUI
